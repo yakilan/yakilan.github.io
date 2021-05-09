@@ -9808,6 +9808,7 @@ button.bg-dark:focus {
 
 .text-primary {
   color: #154879 !important;
+  font-weight: bold;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -10142,7 +10143,8 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
-#img-company {
-  max-width: 50%;
+
+.img-company {
+  max-width: 13rem;
   height: auto;
 }
